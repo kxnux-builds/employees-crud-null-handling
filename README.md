@@ -2,29 +2,26 @@
 
 **A Production-Grade MySQL Project Demonstrating Employee Database Management with Complete CRUD Operations, NULL Value Handling, and Data Validation**
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Database: MySQL](https://img.shields.io/badge/Database-MySQL-orange.svg)
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-
 ---
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Project Structure](#project-structure)
-- [Database Schema](#database-schema)
-- [Getting Started](#getting-started)
-- [SQL Operations](#sql-operations)
-  - [CREATE Operations](#create-operations)
-  - [READ Operations](#read-operations)
-  - [UPDATE Operations](#update-operations)
-  - [DELETE Operations](#delete-operations)
-- [NULL Value Handling](#null-value-handling)
-- [Best Practices Demonstrated](#best-practices-demonstrated)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](##overview)
+- [Key Features](##key-features)
+- [Project Structure](##project-structure)
+- [Database Schema](##database-schema)
+- [Getting Started](##getting-started)
+- [SQL Operations](##sql-operations)
+  - [CREATE Operations](##create-operations)
+  - [READ Operations](##read-operations)
+  - [UPDATE Operations](##update-operations)
+  - [DELETE Operations](##delete-operations)
+- [NULL Value Handling](##null-value-handling)
+- [Best Practices Demonstrated](##best-practices-demonstrated)
+- [Usage Examples](##usage-examples)
+- [Contributing](##contributing)
+- [License](##license)
+- [Credits & Links](##credits--links)
 
 ---
 
@@ -665,12 +662,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
+## Credits & Links
 
-**KISHANU MONDAL**
-
-- GitHub: [@kxnux-builds](https://github.com/kxnux-builds)
-- Repository: [employees-crud-null-handling](https://github.com/kxnux-builds/employees-crud-null-handling)
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
 
 ---
 
@@ -683,18 +680,6 @@ Found a bug or have a question?
 
 ---
 
-## 🎯 Project Status
-
-| Aspect | Status |
-|--------|--------|
-| Development | ✅ Complete |
-| Documentation | ✅ Comprehensive |
-| Testing | ✅ Verified |
-| Production Ready | ✅ Yes |
-| Maintenance | 🔄 Active |
-
----
-
 ## 🙏 Acknowledgments
 
 This project was created as an educational resource demonstrating:
@@ -704,16 +689,6 @@ This project was created as an educational resource demonstrating:
 - Clean, maintainable SQL code
 
 Perfect for students, developers, and database administrators learning MySQL fundamentals.
-
----
-
-<div align="center">
-
-**Made with ❤️ for the developer community**
-
-[⭐ Star this repository](#) | [🔗 Share](#) | [📧 Feedback](#)
-
-</div>
 
 ---
 
@@ -741,6 +716,4 @@ Perfect for students, developers, and database administrators learning MySQL fun
 7. Test all CRUD operations
 8. Consider future scalability
 
----
 
-**Last Updated**: June 2026 | **Version**: 1.0.0 | **Status**: Production Ready
