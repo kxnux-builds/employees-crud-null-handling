@@ -4,27 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Project Structure](#project-structure)
-- [Database Schema](#database-schema)
-- [Getting Started](#getting-started)
-- [SQL Operations](#sql-operations)
-  - [CREATE Operations](#create-operations)
-  - [READ Operations](#read-operations)
-  - [UPDATE Operations](#update-operations)
-  - [DELETE Operations](#delete-operations)
-- [NULL Value Handling](#null-value-handling)
-- [Best Practices Demonstrated](#best-practices-demonstrated)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits & Links](#credits-links)
-
----
-
 ## 🎯 Overview
 
 This project is a **production-style MySQL database** demonstrating comprehensive employee management capabilities. It showcases professional database design patterns, CRUD operations, intelligent NULL value handling, and real-world data constraints while maintaining clean, maintainable SQL scripts following relational database best practices.
