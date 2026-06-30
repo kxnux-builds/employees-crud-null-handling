@@ -6,22 +6,22 @@
 
 ## 📋 Table of Contents
 
-- [Overview](##overview)
-- [Key Features](##key-features)
-- [Project Structure](##project-structure)
-- [Database Schema](##database-schema)
-- [Getting Started](##getting-started)
-- [SQL Operations](##sql-operations)
-  - [CREATE Operations](##create-operations)
-  - [READ Operations](##read-operations)
-  - [UPDATE Operations](##update-operations)
-  - [DELETE Operations](##delete-operations)
-- [NULL Value Handling](##null-value-handling)
-- [Best Practices Demonstrated](##best-practices-demonstrated)
-- [Usage Examples](##usage-examples)
-- [Contributing](##contributing)
-- [License](##license)
-- [Credits & Links](##credits--links)
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Database Schema](#database-schema)
+- [Getting Started](#getting-started)
+- [SQL Operations](#sql-operations)
+  - [CREATE Operations](#create-operations)
+  - [READ Operations](#read-operations)
+  - [UPDATE Operations](#update-operations)
+  - [DELETE Operations](#delete-operations)
+- [NULL Value Handling](#null-value-handling)
+- [Best Practices Demonstrated](#best-practices-demonstrated)
+- [Usage Examples](#usage-examples)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits & Links](#credits-links)
 
 ---
 
